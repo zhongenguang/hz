@@ -5,6 +5,8 @@
 
     <modules>
         <module>hz-eureka-server</module>
+        <module>hz-demo</module>
+        <module>hz-gateway</module>
     </modules>
 
 
